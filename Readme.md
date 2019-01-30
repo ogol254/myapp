@@ -1,3 +1,3 @@
 # MYAPP APP
 
-##  GH PAGES LINK - > 
+##  GH PAGES LINK - > https://ogol254.github.io/myapp/
